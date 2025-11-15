@@ -10,6 +10,6 @@
 supports detection of the local master browser in an SMB network. It will display an icon in the header at the top-right when unRAID is elected as local master browser. Under SMB Workgroup settings more information about the current elected local master browser is given.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
-<Icon>https://raw.githubusercontent.com/unraid/dynamix-plugins/master/dynamix.local.master.png</Icon>
+<Icon>https://raw.githubusercontent.com/unraid/dynamix-plugins-xml/master/dynamix.local.master.png</Icon>
 </Containers>
 

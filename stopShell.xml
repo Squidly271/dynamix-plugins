@@ -13,6 +13,6 @@ The Dynamix Stop Shell plugin adds a script which gets invoked when the array is
 Be aware that automatic terminating of open shells may lead to data loss if an active process is writing to the array.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
-<Icon>https://raw.githubusercontent.com/unraid/dynamix-plugins/master/dynamix.stop.shell.png</Icon>
+<Icon>https://raw.githubusercontent.com/unraid/dynamix-plugins-xml/master/dynamix.stop.shell.png</Icon>
 </Containers>
 

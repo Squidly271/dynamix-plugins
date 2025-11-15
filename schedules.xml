@@ -10,6 +10,6 @@
 is a front-end utility for the built-in hourly, daily, weekly and monthly schedules. It allows the user to alter the schedule execution times using the GUI.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
-<Icon>https://raw.githubusercontent.com/unraid/dynamix-plugins/master/dynamix.schedules.png</Icon>
+<Icon>https://raw.githubusercontent.com/unraid/dynamix-plugins-xml/master/dynamix.schedules.png</Icon>
 </Containers>
 

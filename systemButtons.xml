@@ -10,6 +10,6 @@
 adds an one-click button to the header which allows for instant sleep, reboot, shutdown of the system or array start/stop.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=36543.0</Support>
-<Icon>https://raw.githubusercontent.com/unraid/dynamix-plugins/master/dynamix.system.buttons.png</Icon>
+<Icon>https://raw.githubusercontent.com/unraid/dynamix-plugins-xml/master/dynamix.system.buttons.png</Icon>
 </Containers>
 
